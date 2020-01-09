@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1526920081 source:d:\code\c++ code\atomsim\main.cpp
+	"ThreadHandler.h"
+
+1527018167 d:\code\c++ code\atomsim\include\atom.h
+	<SFML/Graphics.hpp>
+	<SFML/System/Time.hpp>
+	"AtomWrapper.h"
+
+1527020538 d:\code\c++ code\atomsim\include\atomwrapper.h
+	<vector>
+	<utility>
+	<iostream>
+	<SFML/Graphics.hpp>
+	"atom.h"
+
+1527021062 source:d:\code\c++ code\atomsim\src\atom.cpp
+	"atom.h"
+	<stdlib.h>
+
+1578600352 source:d:\code\c++ code\atomsim\src\atomwrapper.cpp
+	"AtomWrapper.h"
+
+1526943253 d:\code\c++ code\atomsim\threadhandler.h
+	<SFML/Graphics.hpp>
+	"AtomWrapper.h"
+
+1526948484 source:d:\code\c++ code\atomsim\threadhandler.cpp
+	<SFML/System.hpp>
+	<SFML/Graphics/Font.hpp>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<cmath>
+	<stdlib.h>
+	<iostream>
+	"ThreadHandler.h"
+
+1526939653 d:\code\c++ code\atomsim\include\threadhandler.h
+	<SFML/Graphics.hpp>
+	"AtomWrapper.h"
+
+1527122805 source:d:\code\c++ code\atomsim\src\threadhandler.cpp
+	<SFML/System.hpp>
+	<SFML/Graphics/Font.hpp>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<cmath>
+	<stdlib.h>
+	<iostream>
+	"ThreadHandler.h"
+
